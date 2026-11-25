@@ -93,6 +93,5 @@ Assistant configurable uniquement par conversation. Il collecte les actualités 
 
 ## Contact
 
-<!-- Remplacer les liens ci-dessous -->
-- [LinkedIn](https://www.linkedin.com/in/TON-PROFIL)
-- ton.email@exemple.com
+- [LinkedIn](www.linkedin.com/in/arthur-pierron-221905352)
+- arthur.pierron21@gmail.com

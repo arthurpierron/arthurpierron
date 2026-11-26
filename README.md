@@ -2,6 +2,9 @@
 
 Étudiant en 3<sup>e</sup> année du Programme Grande École d'**Epitech Lille** (promotion 2029), je me destine à l'**ingénierie en intelligence artificielle**.
 
+> **Recherche un stage de 4 mois en intelligence artificielle à partir d'avril 2027**, idéalement sur les agents LLM.<br>
+> Actuellement en stage chez SBE (Lille), où je développe des serveurs MCP qui permettent à des agents IA d'utiliser les logiciels de l'entreprise.
+
 Mes projets m'ont amené à réimplémenter un réseau de neurones sans librairie, à concevoir un agent LLM fonctionnant entièrement en local et à travailler sur la robustesse des modèles face aux attaques par prompt. Je cherche à comprendre le fonctionnement des modèles autant qu'à les utiliser.
 
 ## Domaines d'intérêt

@@ -93,5 +93,5 @@ Assistant configurable uniquement par conversation. Il collecte les actualités 
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/arthur-pierron-221905352)
-- arthur.pierron21@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/arthur-pierron-221905352)
+- [arthur.pierron21@gmail.com](mailto:arthur.pierron21@gmail.com)

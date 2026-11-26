@@ -94,4 +94,4 @@ Assistant configurable uniquement par conversation. Il collecte les actualités 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/arthur-pierron-221905352)
-- [arthur.pierron21@gmail.com](mailto:arthur.pierron21@gmail.com)
+- [arthur.pierron@epitech.eu](mailto:arthur.pierron@epitech.eu)
